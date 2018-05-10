@@ -1,0 +1,31 @@
+*{
+  padding: 0;
+  font-weight: normal;
+}
+
+body{
+  background-color:#f1ffcc;
+}
+
+#click{
+  text-align:center;
+  margin-top: 125px;
+  margin-right: auto;
+  margin-left: auto;
+　font-family:'Avenir','Osaka',sans-serif;
+  border: 1px solid #000000;
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px #999;
+  width: 350px;
+}
+
+footer{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 500px;
+  text-align: center;
+  border: 1px solid #000000;
+  border-radius: 20px;
+  width: 180px;
+  background-color: #EEE8AA;
+
