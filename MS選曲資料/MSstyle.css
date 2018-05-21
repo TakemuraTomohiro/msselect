@@ -89,3 +89,12 @@ footer{
   box-shadow: 5px 5px 5px #999;
   width: 300px;
 }
+
+.textBox6{
+  margin-top:70px
+  margin-left:300px;
+  border: 1px solid #000000;
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px #999;
+  width: 300px;
+}
